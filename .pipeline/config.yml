@@ -33,5 +33,9 @@ stages:
         appName: ""
       mtaDeployParameters: "-f --version-rule ALL"
   artifactPrepareVersion:
+<<<<<<< HEAD
     versioningType: "cloud_noTag" 
+=======
+    versioningType: "cloud_noTag" 
+>>>>>>> solution/9_add_UI_and_approuter_to_MTA
 
