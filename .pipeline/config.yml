@@ -33,5 +33,5 @@ stages:
         appName: ""
       mtaDeployParameters: "-f --version-rule ALL"
   artifactPrepareVersion:
-    versioningType: "cloud_noTag12" 
+    versioningType: "cloud_noTag" 
 
